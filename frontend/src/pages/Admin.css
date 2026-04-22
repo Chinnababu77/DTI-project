@@ -1,0 +1,30 @@
+.admin {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.admin section {
+  margin-bottom: 2rem;
+}
+
+.admin ul {
+  list-style: none;
+  padding: 0;
+}
+
+.admin li {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.admin select {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
